@@ -1,15 +1,3 @@
-/*3. Desarrolla un programa que resuelva ecuaciones cuadráticas de la 
-forma ax² + bx + c = 0. 
-Implementa una función que calcule el discriminante (D = b² - 4ac) y 
-otra función que, según su valor, determine si la ecuación tiene: 
-• Dos soluciones reales y distintas 
-• Una solución real doble 
-• Dos soluciones complejas 
-Las soluciones deben mostrarse con dos cifras decimales si existen.
-
-• Debe obligatoriamente comentar/documentar las líneas de código en 
-las que se soluciona el ejercicio (no todas las líneas, las esenciales)
-*/
 #include <iostream>
 #include <cmath>
 #include <iomanip>
@@ -62,4 +50,5 @@ int main() {
 
 
     return 0; // Indica que el programa terminó correctamente
+
 }
